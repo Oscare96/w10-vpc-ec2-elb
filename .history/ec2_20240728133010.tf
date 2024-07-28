@@ -1,3 +1,0 @@
-resource "aws_" "name" {
-  
-}

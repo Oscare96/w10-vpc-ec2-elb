@@ -1,4 +1,0 @@
-output "alb-dns" {
-    value= 
-  
-}
